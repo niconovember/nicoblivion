@@ -1,0 +1,110 @@
+Here’s the updated HTML file with the new image included:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nico's Creative Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f4ee;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffcc80;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 5px solid #ffab40;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #333;
+        }
+        nav {
+            background-color: #ffab40;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background-color: #fff8e1;
+            border: 1px solid #ffab40;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #ffcc80;
+            text-align: center;
+            padding: 10px;
+            border-top: 5px solid #ffab40;
+        }
+        .plants {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nico's Creative Portfolio</h1>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#projects">Projects</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! My name is Nico. I am a creative, trapped pawn. I thrive in the world of creativity, constantly looking for new ways to express myself and bring innovative ideas to life.</p>
+        <img src="AD52896E-7738-413E-AF1E-403D40CEEC3B.jpeg" alt="Plants" class="plants">
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Here are some of my recent projects:</p>
+        <ul>
+            <li><strong>Project One:</strong> Description of the project.</li>
+            <li><strong>Project Two:</strong> Description of the project.</li>
+            <li><strong>Project Three:</strong> Description of the project.</li>
+        </ul>
+    </section>
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Welcome to my blog! Here, I share my thoughts on various creative topics.</p>
+        <article>
+            <h3>Blog Post Title</h3>
+            <p>Excerpt from the blog post...</p>
+        </article>
+        <article>
+            <h3>Blog Post Title</h3>
+            <p>Excerpt from the blog post...</p>
+        </article>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me through the following channels:</p>
+        <ul>
+            <li><strong>Email:</strong> nico@example.com</li>
+            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nico">linkedin.com/in/nico</a></li>
+            <li><strong>Twitter:</strong> <a href="https://twitter.com/nico">@nico</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Nico's Creative Portfolio. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+To display the new image properly, ensure the image file (AD52896E-7738-413E-AF1E-403D40CEEC3B.jpeg) is in the same directory as your HTML file. If you need further customization, let me know!
